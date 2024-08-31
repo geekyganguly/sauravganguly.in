@@ -5,7 +5,7 @@ export const DATA = {
   name: "Saurav Ganguly",
   initials: "SG",
   url: "https://sauravganguly.in",
-  description: "Software Developer. I ❤️ building things and helping people.",
+  description: "Software Developer. I love building things and helping people.",
   summary: `
 Experienced software developer with over 3 years in the industry, proficient in a wide range of tools and technologies. 
 I bring a deep understanding of software development, consistently delivering high-quality solutions. 
