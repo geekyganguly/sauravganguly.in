@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { ThemeProvider } from "next-themes";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 import { cn } from "@/lib/utils";
 import { DATA } from "@/data/resume";
@@ -44,9 +45,6 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     images: "/og-image.png",
   },
-  verification: {
-    google: "",
-  },
 };
 
 export default function RootLayout({
@@ -69,6 +67,8 @@ export default function RootLayout({
           </TooltipProvider>
         </ThemeProvider>
       </body>
+
+      <GoogleAnalytics gaId="G-L608QJRNXZ" />
     </html>
   );
 }
