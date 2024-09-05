@@ -148,10 +148,6 @@ By staying current with industry trends, I harness the latest tools and technolo
   The CMS was built using Next.js and Tailwind CSS for a fast, responsive, and modern user interface. 
   I integrated cal.com to enable seamless call scheduling directly within the platform, enhancing the user experience. 
   The project also involved using Shadcn UI for design consistency and deploying the application on Netlify for scalable hosting. 
-  I developed a website with headless CMS for Startup Visa Works, a platform designed to streamline the visa application process for startups. 
-  The CMS was built using Next.js and Tailwind CSS for a fast, responsive, and modern user interface. 
-  I integrated cal.com to enable seamless call scheduling directly within the platform, enhancing the user experience. 
-  The project also involved using Shadcn UI for design consistency and deploying the application on Netlify for scalable hosting.
       `,
       technologies: [
         "Next.js",
